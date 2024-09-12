@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "name": "Muhammad Muneeb",
+    "titles": ["Front-end Developer", "React.js Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Muneeb759",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/m_muneeb._/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "Code_htm.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "React.js",
+        "class": "devicon-react-original",
+        "level": "85"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-antdesign-plain",
+        "level": "85"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "75"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "85"
+      }
+    ]
+  }
+}

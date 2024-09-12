@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am a Computer Science undergraduate, graduating in 2026, with a strong foundation in JavaScript and Python. My passion is Front-End Development, especially with React.js. I'm also deeply interested in Data Science, focusing on data analysis, machine learning, and data visualization. Additionally, I have hands-on experience with AWS and on React.js, which enhances my technical expertise. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Github-Finder",
+      "startDate": "2024",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. ",
+      "images": ["images/portfolio/p1.png", "images/portfolio/p2.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        }
+      ]
+    },
+    {
+      "title": "MovieApp",
+      "startDate": "2024",
+      "description": "Welcome to our MovieApp! Powered by React.js, this platform showcases the latest films using real-time data from popular movie APIs. Explore, discover, and enjoy! :)",
+      "images": ["images/portfolio/p5.png", "images/portfolio/p6.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "NewsApp",
+      "startDate": "2024",
+      "description": "News App which displays articles from differnt API's based on user's selection and displays the full content of that article. I've learned a lot!",
+      "images": ["images/portfolio/p3.png", "images/portfolio/p4.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Techrotics Technolgies Lab",
+      "title": "Front-End Developer (Intern)",
+      "years": "02-2024 - 03-2024 ",
+      "mainTech": ["React.js"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "React.js",
+        "Material UI"
+      ]
+    },
+    {
+      "company": "TexNexx",
+      "title": "React.js Developer (Intern)",
+      "years": "04.2024 - 08.2024",
+      "mainTech": ["React.js"],
+      "technologies": ["React.js", "JavaScript", "Material UI", "AWS", "Axios"]
+    }
+  ]
+}
