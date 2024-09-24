@@ -4,6 +4,7 @@ import AwesomeSlider from "react-awesome-slider";
 import AwesomeSliderStyles from "../scss/light-slider.scss";
 import AwesomeSliderStyles2 from "../scss/dark-slider.scss";
 import "react-awesome-slider/dist/custom-animations/scale-out-animation.css";
+
 class ProjectDetailsModal extends Component {
   render() {
     if (this.props.data) {
@@ -85,7 +86,7 @@ class ProjectDetailsModal extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="link-href"
-                ></a>
+                />
               ) : null}
             </h3>
             <p className="modal-description">{description}</p>

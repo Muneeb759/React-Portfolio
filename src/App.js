@@ -8,8 +8,8 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
-class App extends Component {
 
+class App extends Component {
   constructor(props) {
     super();
     this.state = {

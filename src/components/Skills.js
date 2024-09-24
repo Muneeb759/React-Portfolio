@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+
 class Skills extends Component {
   render() {
     if (this.props.sharedSkills && this.props.resumeBasicInfo) {
